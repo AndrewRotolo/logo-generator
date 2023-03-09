@@ -12,6 +12,7 @@ This application needs no installation beyond downloading it, but it does requir
 In the command line, type "node index.js" and you will be prompted with several questions regarding the appearance of your logo. Once complete, you will see a "logo.svg" file in the main directory.
 
 Please refer to the following video demonstration:
+https://www.youtube.com/watch?v=CAuJmp-abSk
 
 ## License
 Software provided under the MIT License. Please refer to the included license file for more details
